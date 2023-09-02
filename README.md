@@ -1,4 +1,4 @@
-# Matrix Speech Intelligibility Test (MATLAB Application) - MATRIX-GUI 
+# Matrix Speech Intelligibility Test (MATLAB Application); MATRIX-GUI 
 
 The MATRIX GUI is a MATLAB-based application designed to accurately estimate the Speech Recognition Threshold (SRT)
 and the slope at 50% speech recognition in babble noise.
